@@ -5,10 +5,12 @@
 </p>
 
 <p align="center">
-  <a href="https://yiheng-guo.github.io/personal-website/">个人网站</a> ·
+  <a href="https://yiheng-guo.github.io/personal-website/">🌐 个人网站 / 项目作品集</a> ·
   <a href="#项目与作品">项目与作品</a> ·
-  <a href="https://yiheng-guo.github.io/personal-website/#wechat">公众号</a> ·
-  <a href="mailto:guo131378@gmail.com">邮件联系</a>
+  <a href="https://yiheng-guo.github.io/personal-website/#wechat">💬 微信公众号 · O叶小恒O</a> ·
+  <a href="https://xhslink.cn/o/8WV0QfFjg9r">📕 小红书</a> ·
+  <a href="https://www.zhihu.com/people/ci-xin-an-chu-shi-wu-xiang-53-89">知乎主页</a> ·
+  <a href="mailto:guo131378@gmail.com">✉️ 邮箱联系</a>
 </p>
 
 ## 你好，我是郭一恒
@@ -32,8 +34,6 @@
 | **AI 产品拆解 · 产品决策增强版** | 基于开源项目二次开发，加入用户任务分析、同任务竞品对比、改进优先级与验证实验模板。 | [使用说明](https://github.com/Yiheng-guo/ai-product-teardown) |
 | **模型评测全流程 Skill** | 将评测目标、测试集、评分规则、批量评测与 Bad Case 分析组织成七步工作流。 | [流程与模板](https://github.com/Yiheng-guo/model-eval-workflow) |
 
-<sub>项目阶段、运行方式与能力边界以各仓库说明为准。未完之页当前在线版本使用预置剧情与图片，未开启实时生图和在线文字扩写。</sub>
-
 ## 我关心的产品问题
 
 **用户为什么需要它？** 从具体任务出发，明确场景、痛点与使用路径。
@@ -52,8 +52,11 @@
 
 欢迎交流 **AI 产品合作、企业应用场景、面向个人用户的产品与创作工具**。
 
+- 小红书：[查看我的小红书主页](https://xhslink.cn/o/8WV0QfFjg9r)
+- 知乎：[查看我的知乎主页](https://www.zhihu.com/people/ci-xin-an-chu-shi-wu-xiang-53-89)
+- 微信公众号：[O叶小恒O · 扫码关注](https://yiheng-guo.github.io/personal-website/#wechat)
 - 邮箱：[guo131378@gmail.com](mailto:guo131378@gmail.com)
-- 微信：[前往个站扫码联系](https://yiheng-guo.github.io/personal-website/#contact)
+- 个人微信：[扫码添加好友](https://yiheng-guo.github.io/personal-website/#contact)
 
 ---
 
