@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
+<title id="title">郭一恒 · AI 产品经理</title>
+<desc id="desc">让 AI 走进真实业务与日常生活。产品设计、原型开发、交付验证。</desc>
+<rect width="1200" height="400" rx="20" fill="#0c0b12"/>
+<rect x="1" y="1" width="1198" height="398" rx="20" fill="none" stroke="#322747" stroke-width="2"/>
+<path d="M58 56H1142" stroke="#322747"/>
+<g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Microsoft YaHei,sans-serif">
+<text x="58" y="38" font-size="15" letter-spacing="3" fill="#b59aff">YIHENG GUO / PRODUCT &amp; PRACTICE</text>
+<text x="1142" y="38" text-anchor="end" font-size="15" fill="#bdb7ce">AI PRODUCT MANAGER</text>
+<text x="58" y="144" font-size="56" font-weight="650" fill="#ffffff">郭一恒<tspan dx="22" font-size="28" font-weight="400" fill="#aaa1bb">Yiheng Guo</tspan></text>
+<text x="58" y="215" font-size="38" fill="#ffffff">让 AI 走进真实业务与日常生活。</text>
+<text x="58" y="263" font-size="20" fill="#bdb7ce">专注 AI 产品落地 · 从 0 到 1 的设计、开发与实践</text>
+<path d="M58 305H1142" stroke="#322747"/>
+<text x="58" y="353" font-size="19" fill="#c3afff">产品设计</text>
+<text x="205" y="353" font-size="19" fill="#c3afff">原型开发</text>
+<text x="352" y="353" font-size="19" fill="#c3afff">交付验证</text>
+<rect x="896" y="325" width="246" height="46" rx="23" fill="#8052ff"/>
+<text x="1019" y="355" text-anchor="middle" font-size="18" fill="#fff">探索我的项目与实践 ↗</text>
+</g>
+</svg>
