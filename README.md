@@ -6,30 +6,30 @@
 
 <p align="center">
   <a href="https://yiheng-guo.github.io/personal-website/">个人网站 / 作品集</a> ·
-  <a href="#代表作品">代表作品</a> ·
-  <a href="#开源与研究">开源 Skill</a> ·
+  <a href="#selected-work--代表作品">代表作品</a> ·
+  <a href="#open-source--开源与研究">开源 Skill</a> ·
   <a href="https://yiheng-guo.github.io/personal-website/#wechat">公众号 · O叶小恒O</a> ·
   <a href="mailto:guo131378@gmail.com">联系我</a>
 </p>
 
-## 你好，我是郭一恒
+## About Me / 关于我
 
-AI PM（AI 产品经理），聚焦 **To B 企业应用、AIGC 内容产品与 Personal Agent**。具备产品、技术与交付相结合的实践能力：将模糊需求转为清晰方案，把产品从想法推进到真实业务落地。
+我是郭一恒，AI PM（AI 产品经理），聚焦 **To B 企业应用、AIGC 内容产品与 Personal Agent**。具备产品、技术与交付相结合的实践能力：将模糊需求转为清晰方案，把产品从想法推进到真实业务落地。
 
-有大厂 AI PM 实习经历，多次担任黑客松项目队长，完成企业官网与客服 Agent 交付；受邀赴中国人民大学、清华大学分享实践，持续开源产品方法与工具。
+有大厂 AI PM 实习经历，多次担任黑客松项目队长，完成企业官网与客服 Agent 交付；受邀赴清华大学、中国人民大学分享实践，持续开源产品方法与工具。
 
 AI 产品 0—1 · To B · AIGC · Personal Agent · 用户研究  
 竞品分析 · 模型评测 · Prompt 设计 · Agent 工作流 · 原型开发与交付
 
-## 我的核心能力
+## Core Capabilities / 核心能力
 
-- **AI 产品从 0 到 1**：主导需求澄清、用户场景与产品方案，推进原型、开发、验证和交付，让产品判断落实到可体验的成果。
-- **企业 Agent 落地**：直接对接企业负责人，连接知识库、联网检索与客服流程，打通业务展示、在线咨询和专业人员对接。
-- **模型评测与 AIGC 质量控制**：把任务目标转为评测与验收标准，通过 Prompt、人工确认和局部返工，平衡内容质量、成本与体验。
-- **跨职能团队推进**：以队长和产品经理身份收敛方向、确定范围、协调分工，推动产品、设计与开发按同一交付目标协作。
-- **方法沉淀与技术表达**：将项目经验整理为独立开源 Skill、产品研究与实践分享，推动方法复用与同行交流。
+- **0→1 Product Delivery / 产品从 0 到 1**：主导需求澄清、用户场景与产品方案，推进原型、开发、验证和交付，让产品判断落实到可体验的成果。
+- **Enterprise AI / 企业 Agent 落地**：直接对接企业负责人，连接知识库、联网检索与客服流程，打通业务展示、在线咨询和专业人员对接。
+- **Evaluation & Quality / 模型评测与质量控制**：把任务目标转为评测与验收标准，通过 Prompt、人工确认和局部返工，平衡内容质量、成本与体验。
+- **Team Leadership / 团队推进**：以队长和产品经理身份收敛方向、确定范围、协调分工，推动产品、设计与开发按同一交付目标协作。
+- **Knowledge Sharing / 方法沉淀与分享**：将项目经验整理为独立开源 Skill、产品研究与实践分享，推动方法复用与同行交流。
 
-## 代表作品
+## Selected Work / 代表作品
 
 | 作品 | 产品方向 | 入口 |
 | :--- | :--- | :--- |
@@ -42,24 +42,24 @@ AI 产品 0—1 · To B · AIGC · Personal Agent · 用户研究
 
 漫序、亦伴的完整 AI 服务在本机运行，公开入口用于流程体验；美本无界包含真实交互、预设示例与概念演示。具体实现和验证记录见各项目说明。
 
-## 开源与研究
+## Open Source / 开源与研究
 
 持续开源产品研究、模型评测、AIGC 创作、企业知识库和 Agent 相关方法与工具。项目的使用说明、来源和适用范围保留在对应仓库中。
 
 [浏览全部开源仓库](https://github.com/Yiheng-guo?tab=repositories) · [产品拆解](https://github.com/Yiheng-guo/ai-product-teardown) · [模型评测](https://github.com/Yiheng-guo/model-eval-workflow)
 
-## 分享与交流
+## Talks & Sharing / 分享与交流
 
-受邀赴中国人民大学、清华大学分享实践，发起 FDE / To B 同行交流群。公众号 **「O叶小恒O」** 分享 AI 研究、前沿技术解读与产品观点。
+受邀赴清华大学、中国人民大学分享实践，发起 FDE / To B 同行交流群。公众号 **「O叶小恒O」** 分享 AI 研究、前沿技术解读与产品观点。
 
 <table>
   <tr>
-    <td width="50%"><img src="https://raw.githubusercontent.com/Yiheng-guo/personal-website/main/images/events/renmin-university.jpg" alt="知乎黑客松中国人民大学站活动合影，郭一恒位于中间" width="100%" /></td>
     <td width="50%"><img src="https://raw.githubusercontent.com/Yiheng-guo/personal-website/main/images/events/tsinghua-sharing.jpg" alt="郭一恒在清华会议室持麦克风分享互动叙事项目" width="100%" /></td>
+    <td width="50%"><img src="https://raw.githubusercontent.com/Yiheng-guo/personal-website/main/images/events/renmin-university.jpg" alt="知乎黑客松中国人民大学站活动合影，郭一恒位于中间" width="100%" /></td>
   </tr>
   <tr>
-    <td align="center">中国人民大学 · 活动分享与交流</td>
     <td align="center">清华大学 · 项目演示与分享</td>
+    <td align="center">中国人民大学 · 活动分享与交流</td>
   </tr>
 </table>
 
