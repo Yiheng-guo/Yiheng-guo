@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://yiheng-guo.github.io/personal-website/">
-    <img src="https://raw.githubusercontent.com/Yiheng-guo/Yiheng-guo/main/assets/profile-banner.svg" width="100%" alt="郭一恒 Yiheng Guo · AI 产品经理 · 产品设计、原型开发与交付验证" />
+    <img src="https://raw.githubusercontent.com/Yiheng-guo/Yiheng-guo/main/assets/profile-banner.svg" width="100%" alt="郭一恒 Yiheng Guo · AI PM · 产品设计、原型开发与交付验证" />
   </a>
 </p>
 
@@ -14,9 +14,9 @@
 
 ## 你好，我是郭一恒
 
-AI 产品经理，聚焦 **To B 企业应用、AIGC 内容产品与 Personal Agent**。具备产品、技术与交付相结合的实践能力：将模糊需求转为清晰方案，把产品从想法推进到真实业务落地。
+AI PM（AI 产品经理），聚焦 **To B 企业应用、AIGC 内容产品与 Personal Agent**。具备产品、技术与交付相结合的实践能力：将模糊需求转为清晰方案，把产品从想法推进到真实业务落地。
 
-有大厂 AI 产品经理实习经历，多次担任黑客松项目队长，完成企业官网与客服 Agent 交付；受邀赴中国人民大学、清华大学分享实践，持续开源产品方法与工具。
+有大厂 AI PM实习经历，多次担任黑客松项目队长，完成企业官网与客服 Agent 交付；受邀赴中国人民大学、清华大学分享实践，持续开源产品方法与工具。
 
 AI 产品 0—1 · To B · AIGC · Personal Agent · 用户研究  
 竞品分析 · 模型评测 · Prompt 设计 · Agent 工作流 · 原型开发与交付
