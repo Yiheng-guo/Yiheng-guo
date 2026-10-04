@@ -56,17 +56,6 @@ AI 产品 0—1 · To B · AIGC · Personal Agent · 用户研究
 
 受邀赴清华大学、中国人民大学分享实践，发起 FDE / To B 同行交流群。公众号 **「O叶小恒O」** 分享 AI 研究、前沿技术解读与产品观点。
 
-<table>
-  <tr>
-    <td width="50%"><img src="https://raw.githubusercontent.com/Yiheng-guo/personal-website/main/images/events/tsinghua-sharing.jpg" alt="郭一恒在清华会议室持麦克风分享互动叙事项目" width="100%" /></td>
-    <td width="50%"><img src="https://raw.githubusercontent.com/Yiheng-guo/personal-website/main/images/events/renmin-university.jpg" alt="知乎黑客松中国人民大学站活动合影，郭一恒位于中间" width="100%" /></td>
-  </tr>
-  <tr>
-    <td align="center">清华大学 · 项目演示与分享</td>
-    <td align="center">中国人民大学 · 活动分享与交流</td>
-  </tr>
-</table>
-
 欢迎交流 AI 产品岗位、企业应用合作、AIGC 创作与 Personal Agent。
 
 [个人网站](https://yiheng-guo.github.io/personal-website/) · [公众号](https://yiheng-guo.github.io/personal-website/#wechat) · [知乎](https://www.zhihu.com/people/ci-xin-an-chu-shi-wu-xiang-53-89) · [小红书](https://xhslink.cn/o/8WV0QfFjg9r) · [邮箱](mailto:guo131378@gmail.com) · [微信联系](https://yiheng-guo.github.io/personal-website/#contact)
