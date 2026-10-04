@@ -12,6 +12,12 @@
   <a href="mailto:guo131378@gmail.com">联系我</a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/Yiheng-guo?tab=overview">
+    <img src="https://raw.githubusercontent.com/Yiheng-guo/Yiheng-guo/main/assets/recent-contributions.svg" width="420" alt="郭一恒最近 90 天的 GitHub 贡献" />
+  </a>
+</p>
+
 ## About Me / 关于我
 
 我是郭一恒，AI PM（AI 产品经理），聚焦 **To B 企业应用、AIGC 内容产品与 Personal Agent**。兼具产品设计、技术实现与业务交付能力，将模糊需求转为清晰方案，推进 AI 产品从想法到落地。
