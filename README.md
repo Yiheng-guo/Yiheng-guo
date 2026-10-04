@@ -14,13 +14,13 @@
 
 ## 你好，我是郭一恒
 
-AI 产品经理，湖北大学大数据管理与应用专业毕业。关注 **To B 企业应用、AIGC 内容产品与 个人 AI 助理**，把业务需求转为产品方案、可交互原型和可验证的交付成果。
+AI 产品经理，湖北大学大数据管理与应用专业毕业。关注 **To B 企业应用、AIGC 内容产品与 Personal Agent**，把业务需求转为产品方案、可交互原型和可验证的交付成果。
 
 我的实践贯穿需求研究、竞品分析、模型评测、Prompt 设计、Agent 工作流与交付验收。比起罗列用了哪些模型和框架，我更关注：**为什么采用这个方案，失败发生在哪一层，怎样验证它确实解决了问题。**
 
 - **大厂 AI 产品经理实习经历 · 2026.03—05**：在快看漫画 AIGC 产品探索团队参与用户研究、产品拆解、模型评分与脚本、视频方向的 Skill 需求定义和效果验证；首周在 Mentor 带教下拆解 OiiOii，随后逐步推进模块迭代与跨团队协作。
 - **LIT 工作室企业 AI 应用实践**：直接对接郑州奎达负责人，澄清基础咨询、业务知识查询与专业人员对接的边界，交付官网、客服 Agent 和可持续维护的知识库框架。
-- **知乎黑客松队长 / AI 产品经理**：带领 5 人团队，在 48 小时内交付《未完之页》大学互动叙事 Demo 并进入决赛；受邀赴中国人民大学、清华大学分享实践。
+- **多个黑客松项目队长 / AI 产品经理**：参加知乎、欧莱雅、AIGC 等黑客松，多次担任队长，负责选题与范围取舍、产品方案和团队推进；带领 5 人团队在 48 小时内交付《未完之页》大学互动叙事 Demo，受邀赴中国人民大学、清华大学分享实践。
 - **开源与同行交流**：将实习和项目方法整理为 独立开源 Skill；发起 300+ 人 FDE / To B 交流群，交流企业需求沟通、交付案例与实施经验。
 
 ## 代表作品
@@ -32,7 +32,7 @@ AI 产品经理，湖北大学大数据管理与应用专业毕业。关注 **To
 | **下一顿早餐 · AI 短剧实践** | 完成 6 集、403 秒有声短剧；按时间区间回查镜头和声轨，处理叠音、道具异常与文字乱码，依次检查问题区间、相邻镜头和整集，沉淀制作 SOP 与返工案例。 | [制作复盘与工具](https://github.com/Yiheng-guo/ai-short-drama-production-playbook) |
 | **美本无界 · 欧莱雅黑客松** | 作为队长 / AI 产品经理，定义参考理解、本人适配、跟妆指导、条件调整、偏差修正与复盘六个体验环节；完成 22 项问题定位与产品评审，输出迭代任务、验收用例和概念演示方案。 | [未来体验原型](https://suixingmei.taoxie.vip/) |
 | **奎达官网与客服 Agent** | 将非工作时间咨询承接、知识沉淀与线上展示诉求转为官网 + 客服入口；比较平台方案，结合 Dify、DeepSeek、RAG 与联网检索，设计资料不足时的澄清及专业人员对接规则。 | [官网与在线咨询](https://zzkuida.com/) · [RAG 验收方法](https://github.com/Yiheng-guo/rag-customer-service-evaluation) |
-| **亦伴 个人 AI 助理 / 造物** | 将项目研究、证据审阅、需求定义、原型和待办连接起来；设计来源追溯、记忆纠错与版本保留，完成一次真实研究到交互原型的端到端验证，两个服务共 80 项程序测试通过。 | [六步流程演示](https://yiheng-guo.github.io/ai-pm-worker/) · [亦伴源码](https://github.com/Yiheng-guo/ai-pm-worker) · [造物源码](https://github.com/Yiheng-guo/product-foundry) |
+| **亦伴 Personal Agent / 造物** | 将项目研究、证据审阅、需求定义、原型和待办连接起来；设计来源追溯、记忆纠错与版本保留，完成一次真实研究到交互原型的端到端验证，两个服务共 80 项程序测试通过。 | [六步流程演示](https://yiheng-guo.github.io/ai-pm-worker/) · [亦伴源码](https://github.com/Yiheng-guo/ai-pm-worker) · [造物源码](https://github.com/Yiheng-guo/product-foundry) |
 
 **体验方式**：漫序公网版用于编辑、记录和流程体验，完整模型调用与视频合成在本机运行；亦伴公开页展示研究流程，完整 AI 研究服务在本机运行。美本无界是未来体验原型，结合真实交互、准备示例与概念演示。六集短剧在外部平台制作，制作方法与漫序持续互相沉淀。
 
@@ -71,6 +71,6 @@ AI 产品经理，湖北大学大数据管理与应用专业毕业。关注 **To
 
 我的公众号 **「O叶小恒O」** 主要分享 AI 领域的研究、前沿技术与知识解读，以及对 AI 产品的判断和看法。黑客松复盘、企业交付和创作案例也是其中一部分。
 
-欢迎交流 **AI 产品岗位、To B 应用合作、AIGC 创作工具与 个人 AI 助理**。
+欢迎交流 **AI 产品岗位、To B 应用合作、AIGC 创作工具与 Personal Agent**。
 
 [个人网站](https://yiheng-guo.github.io/personal-website/) · [公众号](https://yiheng-guo.github.io/personal-website/#wechat) · [知乎](https://www.zhihu.com/people/ci-xin-an-chu-shi-wu-xiang-53-89) · [小红书](https://xhslink.cn/o/8WV0QfFjg9r) · [邮箱](mailto:guo131378@gmail.com) · [微信联系](https://yiheng-guo.github.io/personal-website/#contact)
