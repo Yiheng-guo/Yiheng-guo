@@ -27,6 +27,14 @@
 AI 产品 0—1 · To B · AIGC · Personal Agent · 用户研究  
 竞品分析 · 模型评测 · Prompt 设计 · Agent 工作流 · 原型开发与交付
 
+## Work With Me / 合作与交流
+
+- **企业 AI 落地**：依托阿里钉钉生态头部服务商，面向企业客户提供 AI 产品方案、Agent 与知识库交付，把大模型接进真实业务流程。
+- **产品分享与交流**：受邀赴清华大学、中国人民大学分享 AI 产品实践，欢迎企业内训、行业分享与产品交流邀约。
+- **开源共建**：持续开源 AI 产品方法与 Skill 工具，欢迎在 GitHub 上交流共建。
+
+联系：guo131378@gmail.com · [个人网站](https://yiheng-guo.github.io/personal-website/)
+
 ## Core Capabilities / 核心能力
 
 - **0→1 Product Delivery / 产品从 0 到 1**：主导需求澄清、用户场景与产品方案，推进原型、开发、验证和交付，让产品判断落实到可体验的成果。
