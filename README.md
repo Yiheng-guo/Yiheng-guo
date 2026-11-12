@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://yiheng-guo.github.io/personal-website/">
-    <img src="https://raw.githubusercontent.com/Yiheng-guo/Yiheng-guo/main/assets/profile-banner.svg" width="100%" alt="郭一恒 Yiheng Guo · AI PM · 产品设计、原型开发与交付验证" />
+    <img src="https://raw.githubusercontent.com/Yiheng-guo/Yiheng-guo/main/assets/profile-banner.svg" width="100%" alt="郭一恒 Yiheng Guo · AI 工程师（FDE）· 阿里千问企业 AI 项目交付" />
   </a>
 </p>
 
@@ -20,16 +20,16 @@
 
 ## About Me / 关于我
 
-我是郭一恒，AI PM / AI Builder，聚焦 **To B 企业应用、AIGC 内容产品与 Personal Agent**。兼具产品设计、技术实现与业务交付能力，将模糊需求转为清晰方案，推进 AI 产品从想法到落地。
+我是郭一恒，AI 工程师（FDE），聚焦 **To B 企业应用、AIGC 内容产品与 Personal Agent**。兼具产品设计、技术实现与业务交付能力，将模糊需求转为清晰方案，推进 AI 产品从想法到落地。
 
-目前任职于阿里钉钉生态头部服务商，担任 AI 工程师，面向企业客户做 AI 落地交付。此前有大厂 AI 产品经历，多次担任黑客松队长，完成企业官网与客服 Agent 交付；受邀赴清华大学、中国人民大学分享实践，持续开源产品方法与工具。
+目前负责阿里千问企业 AI 项目的交付，从需求澄清、方案验证到上线验收。此前有大厂 AI 产品经历，多次担任黑客松队长，完成企业官网与客服 Agent 交付；受邀赴清华大学、中国人民大学分享实践，持续开源产品方法与工具。
 
 AI 产品 0—1 · To B · AIGC · Personal Agent · 用户研究  
 竞品分析 · 模型评测 · Prompt 设计 · Agent 工作流 · 原型开发与交付
 
 ## Work With Me / 合作与交流
 
-- **企业 AI 落地实践**：在阿里钉钉生态头部服务商负责企业客户的 AI 落地项目，日常是把 Agent、知识库等能力接进企业的真实业务流程，欢迎同行交流落地经验与踩过的坑。
+- **企业 AI 落地实践**：负责阿里千问企业 AI 项目交付，将 Agent、知识库等能力接入企业的真实业务流程，欢迎同行交流落地经验与踩过的坑。
 - **产品分享与交流**：受邀赴清华大学、中国人民大学分享 AI 产品实践，欢迎行业分享与产品交流邀约。
 - **开源共建**：持续开源 AI 产品方法与 Skill 工具，欢迎在 GitHub 上交流共建。
 
